@@ -302,4 +302,8 @@
 
 150. `git stash clear --quiet`: Removes all stashes quietly.
 
+151. The `git diff --staged` command is used to view the changes that are staged and ready to be committed.
+
 These additional Git commands offer further capabilities for managing your Git repositories and version control workflow. Feel free to explore and experiment with these commands as you continue to learn Git and GitHub.
+
+*** Thank you ***
