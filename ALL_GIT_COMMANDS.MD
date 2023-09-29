@@ -304,6 +304,10 @@
 
 151. The `git diff --staged` command is used to view the changes that are staged and ready to be committed.
 
+152. `git commit -a -m "Message"` commits all changes (tracked files) without the need for explicit `git add`, using "Message" as the commit message.
+
+153. The `git config --global --list` command displays a list of global Git configuration settings, such as user name and email, used across all Git repositories on your system.
+
 These additional Git commands offer further capabilities for managing your Git repositories and version control workflow. Feel free to explore and experiment with these commands as you continue to learn Git and GitHub.
 
 *** Thank you ***
