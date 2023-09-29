@@ -1,11 +1,7 @@
 
 # Set git into your project
 
-<<<<<<< HEAD
-### 1. Initialize a new git repository in project directory
-=======
 ## 1. Initialize a new git repository in project directory
->>>>>>> eb5f49ab3f197f941909212fb920cbc6ab309e88
 
 `. git init`
 
@@ -36,10 +32,5 @@ After running `git init`, you can start adding files, making commits, and managi
 ### 2. Initialize a empty git repository in project directory with specific branch
 
 `git init -b main`
-<<<<<<< HEAD
-    
-The git init -b main command is used to initialize a new Git repository while also specifying the initial branch name. This is typically done to set the default branch name to something other than the default branch name, which is traditionally "master."
-=======
   
 The git init -b main command is used to initialize a new Git repository while also specifying the initial branch name. This is typically done to set the default branch name to something other than the default branch name, which is traditionally "master."
->>>>>>> eb5f49ab3f197f941909212fb920cbc6ab309e88
